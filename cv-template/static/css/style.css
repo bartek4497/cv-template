@@ -1,0 +1,276 @@
+body{
+	background: #F1F1F1;
+}
+
+main{
+	display: flex;
+}
+
+header{
+	width: 450px;
+	margin: 15px 20px  0 150px;
+	box-shadow: 2px 10px 20px gray;
+	background-color: #FFF;	
+	display: flex;
+	flex-direction: column;
+}
+
+#caption{
+	position: absolute;
+	font-family: verdana;
+	font-size: 25px;
+}
+
+.avatar, img{
+	width: 100%;
+}
+
+ul{
+	font-family: verdana;
+	list-style-type: none;
+}
+
+.info{
+	margin-bottom: 20px;
+	font-size: 14px;	
+	display: flex;
+	flex-flow: column wrap;
+	margin-left: -20px;
+
+}
+
+.briefcase{
+	width: 40px;
+	height: 15px;
+}
+
+.home{
+	width: 25px;
+	height: 15px;
+}
+
+.post{
+	width: 25px;
+	height: 15px;
+}
+
+.phone{
+	width: 25px;
+	height: 15px;
+}
+
+.margin{
+	margin-left: 20px;
+}
+
+.margin-top{
+	margin-top: 15px;
+}
+
+.margin2{
+	margin-left: -25px;
+}
+
+.margin-left{
+	margin-left: 10px;
+}
+
+.margin-left-text{
+	margin-left: 30px;
+}
+
+.margin-right{
+	margin-right: 20px;
+}
+
+hr{
+	margin: 15px;
+}
+
+.Skills{
+	color: #757575;
+	font-weight: bold;
+	display: flex;
+	flex-flow: column wrap;	
+	font-size: 20px;
+	line-height: 30px;
+}
+
+.imgs{
+	width: 25px;
+	height: 25px;
+	margin-left: 10px;
+}
+
+.text{
+	color: #757575;
+	margin-left: 10px;
+	font-size: 17px;
+}
+
+.text2{
+	color: #757575;
+	font-size: 14px;
+}
+
+.Progressbar {
+	background: #F1F1F1;
+	border-radius: 10px;
+	width: 400px;
+} 
+
+.Progressbar > .progBar {
+	text-align: center;
+	background-color: #009688;
+	border-radius: 10px;
+	width: 90%;
+} 
+
+.progress {
+	color: white;
+}
+
+.Progressbar{
+	background: #F1F1F1;
+	border-radius: 10px;
+	width: 400px;
+}
+
+.Progressbar > .progbar{
+	width: 90%;
+	border-radius: 10px;
+	background: #F1F1F1;
+
+}
+
+.Progressbar > .progBar2{
+	text-align: center;
+	background-color: #009688;
+	width: 80%;
+	border-radius: 10px;	
+}
+
+.Progressbar > .progBar3{
+	text-align: center;
+	background-color: #009688;
+	width: 75%;
+	border-radius: 10px;
+}
+
+.Progressbar > .progBar4{
+	text-align: center;
+	background-color: #009688;
+	width: 50%;
+	border-radius: 10px;
+}
+
+.Progressbar > .progBar5{
+	width: 100%;
+	border-radius: 10px;
+	background-color: #009688;
+}
+
+.Progressbar > .progBar6{
+	width: 50%;
+	background-color: #009688;
+	border-radius: 10px;
+}
+
+.Progressbar > .progBar7{
+	width: 25%;
+	background-color: #009688;
+	border-radius: 10px;
+}
+
+aside{
+	background-color: #FFF;	
+	box-shadow: 2px 10px 20px gray;
+	height: 500px;
+	width: 880px;
+	margin-top: 15px;
+	width: 880px;
+}
+
+.Experience{
+	color: #757575;
+	font-size: 35px;
+	line-height: 15px;
+	margin-top: 20px;
+	display: flex;
+	flex-flow: column wrap;	
+}
+
+.case{
+	width: 50px;
+	height: 35px;
+}
+
+.text3{
+	color: #656565;
+	margin-left: 35px;
+}
+
+.calendar{
+	width: 20px;
+	height: 20px;
+}
+
+.text4{
+	color: #009688;
+	margin-left: 20px;
+	display: flex;
+	font-size: 20px;
+	flex-flow: column wrap;
+	line-height: 25px;
+}
+
+mark{
+	background-color: #009688;
+	border-radius: 5px;
+	color: #FFF;
+	margin-left: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.education{
+	width: 40px;
+	height: 25px;
+}
+
+footer{
+	background-color: #009688;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	color: white;
+}
+
+a:link{
+	color: white;
+}
+
+a:visited{
+	color: white;
+}
+
+.fb{
+	width: 20px;
+	height: 15px;
+}
+
+.instagram{
+	width: 20px;
+	height: 15px;
+}
+
+.twitter{
+	width: 20px;
+	height: 15px;
+}
+
+.img{
+	display: flex;
+
+}
